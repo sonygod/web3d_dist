@@ -1,0 +1,16 @@
+/node_modules
+/bin
+*.sh
+*.hx
+*.md
+aliyunos.js
+build.hxml
+package-lock.json
+package.json
+put.js
+test.js
+upload.html
+upload2.html
+upload3.html
+upload4.html
+
